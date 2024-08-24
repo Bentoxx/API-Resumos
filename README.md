@@ -688,4 +688,4 @@ Tente se conectar a algum serviço de inteligência artificial, por exemplo, a A
 
 ---
 
-**BENTO JOSÉ DE SANTANA NETO E KARLA CAROLINE RABELO SANTOS**
+**BENTO JOSÉ DE SANTANA NETO**
